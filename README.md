@@ -1,7 +1,8 @@
 
 ![logo](https://github.com/iftekar-23/iftekar-23/blob/main/Banner.png)
 
-# 💫 Hi 👋, I'm Iftekar
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+++There...👋;I+am+Iftekar...;Nice+To+Meet+You!&fontSize=160&center=true&width=1000&height=60)](https://git.io/typing-svg)
+
 
 
 ## 👨‍💻 About Me
